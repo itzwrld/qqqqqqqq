@@ -1,0 +1,9 @@
+ BLOQUEADO POR UA || user-agent : WhatsApp/2.22.20.79 A
+ ip : 190.43.126.231 || 2022-10-05 ----> 03:38:31
+
+ BLOQUEADO POR UA || user-agent : WhatsApp/2.22.17.77 A
+ ip : 132.184.128.255 || 2022-10-05 ----> 03:39:11
+
+ BLOQUEADO POR IP || user-agent : TelegramBot (like TwitterBot)
+ ip : 149.154.161.253 || 2022-10-05 ----> 03:39:27
+

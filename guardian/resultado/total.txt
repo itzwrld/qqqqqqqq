@@ -1,0 +1,3 @@
+190.43.126.231 (Detect by USERAGENT)
+132.184.128.255 (Detect by USERAGENT)
+149.154.161.253 (Detectado por Rango de IP)
